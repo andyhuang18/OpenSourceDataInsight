@@ -14,10 +14,9 @@ Provide data insights for 2023 open source reports
 | gitee_usercount | gitee 每年用户数量 |
 | gitee_OpenrankByRepo | 2023年gitee 仓库Openrank值 |
 | gitee_OpenrankByUser | 2023年gitee 用户Openrank值 |
-| gitee RepoOpenrankByYear | gitee 每年Openrank值 |
+| gitee_RepoOpenrankByYear | gitee 每年Openrank值 |
 | github_RepoOpenrankByYear | github 每年Openrank值 |
-| repo_licenseAndLanguage| 仓库许可证和语言数据 |
 | repo_Openrank | 仓库Openrank对比 |
 | user_Openrank | 用户Openrank对比 |
-
->由于 `repo_licenseAndLanguage.csv` 较大，暂时不上传
+| license_counts | 许可证数据 |
+| license_language_counts| 许可证最多编程语言数据 |
