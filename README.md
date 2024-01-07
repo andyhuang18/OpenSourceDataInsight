@@ -19,3 +19,5 @@ Provide data insights for 2023 open source reports
 | repo_licenseAndLanguage| 仓库许可证和语言数据 |
 | repo_Openrank | 仓库Openrank对比 |
 | user_Openrank | 用户Openrank对比 |
+
+>由于 `repo_licenseAndLanguage.csv` 较大，暂时不上传
