@@ -5,7 +5,7 @@ Provide data insights for 2023 open source reports
 - 供应链趋势分析（**数据暂缺**）
 - 开源许可证方面的统计与分析 
 
-## 数据部分
+## 数据
 | 文件名 | 描述 |
 | ----- | --- |
 | gitee_communityOpenrank | gitee 每年的OpenRank值 |
@@ -20,3 +20,19 @@ Provide data insights for 2023 open source reports
 | user_Openrank | 用户Openrank对比 |
 | license_counts | 许可证数据 |
 | license_language_counts| 许可证最多编程语言数据 |
+
+## 报告
+
+具体参见 insight.ipynb
+
+### 平台相关的趋势分析
+- gitee 每年日志数据数量、仓库数量、用户数量
+- Gitee Openrank趋势
+- Github Openrank 趋势
+- Gitee 仓库 Openrank 排名Top20
+- Gitee 用户 Openrank 排名Top20
+- Gitee 和 Github 仓库及用户 Openrank 对比
+
+### 开源许可证方面的统计与分析
+- 许可证数量分布
+- 许可证中最多的编程语言
